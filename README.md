@@ -15,7 +15,7 @@ Findings:
 - The mean Average Daily Rate (ADR) was 107.74 for both Hotels, while 2016 saw an increase of monthly ADR as compared to 2015 for the City Hotel.
 
 Next step:
-- a good next step would be to create a prediction model with ADR as the dependent variable
+- a good next step would be to find an updated version of this dataset that includes years with the full set of months, and then create a prediction model with ADR as the dependent variable
 
 Source:
 https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand/versions/1?resource=download
