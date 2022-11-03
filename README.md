@@ -10,7 +10,7 @@ Findings:
 - There was a relatively large number of cancellations made with no deposits made for those cancellations
 - Most popular way to advertise and receive bookings were through travel agancies and travel agents, both online and offline
 - Country of origin for the guests were Portugal, followed by the UK and France
-- The vast majority of guests preferred bead and breakfast as their meal plan for both hotels
+- The vast majority of guests preferred bed and breakfast as their meal plan for both hotels
 - The most common amount of adults per booking were 2, while the most common amount of children per booking was 0.
 - The mean Average Daily Rate (ADR) was 107.74 for both Hotels, while 2016 saw an increase of monthly ADR as compared to 2015 for the City Hotel.
 
